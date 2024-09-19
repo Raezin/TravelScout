@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.custom-nav{
+    background-color: #9BD3E9;
+}
+
+.custom-nav div{
+    padding: 5px 30px;
+}
+
+
+.welcome-banner{
+    height: 450px;
+    background-image: url(/content/bg1.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
